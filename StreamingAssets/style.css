@@ -1,0 +1,21 @@
+html, * {
+    margin: 0 0 0 0;
+}
+
+body {
+    overflow: hidden;
+    background-color : red;
+}
+
+#mgs {
+    border: 1px #ffffff none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
